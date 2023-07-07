@@ -1,5 +1,6 @@
 
 # NgrxConter
+![image](https://github.com/levyhanunes/study-ngrx-counter/assets/56304278/df127ee1-8fb6-4a20-9b63-fd5955149bb1)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
 
