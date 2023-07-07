@@ -1,0 +1,19 @@
+@startuml decrement
+
+set namespaceSeparator ::
+skinparam class {
+    BackgroundColor<<listen>> HoneyDew
+    BackgroundColor<<action>> Wheat
+    BackgroundColor<<dispatch>> Technology
+}
+
+interface "decrement" << (A,#FF7700) action >> {
+            variable: decrement
+            src: counter.actions
+            --
+            
+        }
+
+         
+
+@enduml

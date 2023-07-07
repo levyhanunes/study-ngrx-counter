@@ -1,0 +1,19 @@
+@startuml reset
+
+set namespaceSeparator ::
+skinparam class {
+    BackgroundColor<<listen>> HoneyDew
+    BackgroundColor<<action>> Wheat
+    BackgroundColor<<dispatch>> Technology
+}
+
+interface "reset" << (A,#FF7700) action >> {
+            variable: reset
+            src: counter.actions
+            --
+            
+        }
+
+         
+
+@enduml

@@ -1,0 +1,17 @@
+{
+  "rootPath": "c:\\Users\\levyh\\OneDrive\\Documentos\\estudos\\ngrx-conter/",
+  "data": [
+    {
+      "filePath": "c:/Users/levyh/OneDrive/Documentos/estudos/ngrx-conter/src/app/counter/state/counter.reducer.ts",
+      "pos": 188,
+      "end": 603,
+      "kind": 1004,
+      "kindText": "Reducer",
+      "state": {
+        "name": "any",
+        "properties": []
+      },
+      "name": "_counterReducer"
+    }
+  ]
+}

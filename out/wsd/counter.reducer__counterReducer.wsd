@@ -1,0 +1,12 @@
+@startuml counter.reducer__counterReducer
+
+set namespaceSeparator ::
+skinparam class {
+    BackgroundColor<<listen>> HoneyDew
+    BackgroundColor<<action>> Wheat
+    BackgroundColor<<dispatch>> Technology
+}
+
+ 
+
+@enduml

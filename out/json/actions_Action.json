@@ -1,0 +1,32 @@
+{
+  "rootPath": "c:\\Users\\levyh\\OneDrive\\Documentos\\estudos\\ngrx-conter/",
+  "data": [
+    {
+      "name": "increment",
+      "filePath": "c:/Users/levyh/OneDrive/Documentos/estudos/ngrx-conter/src/app/counter/state/counter.actions.ts",
+      "pos": 72,
+      "end": 97,
+      "kind": 1002,
+      "kindText": "Action",
+      "variable": "increment"
+    },
+    {
+      "name": "decrement",
+      "filePath": "c:/Users/levyh/OneDrive/Documentos/estudos/ngrx-conter/src/app/counter/state/counter.actions.ts",
+      "pos": 124,
+      "end": 149,
+      "kind": 1002,
+      "kindText": "Action",
+      "variable": "decrement"
+    },
+    {
+      "name": "reset",
+      "filePath": "c:/Users/levyh/OneDrive/Documentos/estudos/ngrx-conter/src/app/counter/state/counter.actions.ts",
+      "pos": 172,
+      "end": 193,
+      "kind": 1002,
+      "kindText": "Action",
+      "variable": "reset"
+    }
+  ]
+}

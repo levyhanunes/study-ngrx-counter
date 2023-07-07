@@ -1,0 +1,19 @@
+@startuml increment
+
+set namespaceSeparator ::
+skinparam class {
+    BackgroundColor<<listen>> HoneyDew
+    BackgroundColor<<action>> Wheat
+    BackgroundColor<<dispatch>> Technology
+}
+
+interface "increment" << (A,#FF7700) action >> {
+            variable: increment
+            src: counter.actions
+            --
+            
+        }
+
+         
+
+@enduml
