@@ -4,8 +4,8 @@
     {
       "name": "increment",
       "filePath": "c:/Users/levyh/OneDrive/Documentos/estudos/ngrx-conter/src/app/counter/state/counter.actions.ts",
-      "pos": 72,
-      "end": 97,
+      "pos": 79,
+      "end": 104,
       "kind": 1002,
       "kindText": "Action",
       "variable": "increment"
@@ -13,8 +13,8 @@
     {
       "name": "decrement",
       "filePath": "c:/Users/levyh/OneDrive/Documentos/estudos/ngrx-conter/src/app/counter/state/counter.actions.ts",
-      "pos": 124,
-      "end": 149,
+      "pos": 131,
+      "end": 156,
       "kind": 1002,
       "kindText": "Action",
       "variable": "decrement"
@@ -22,11 +22,39 @@
     {
       "name": "reset",
       "filePath": "c:/Users/levyh/OneDrive/Documentos/estudos/ngrx-conter/src/app/counter/state/counter.actions.ts",
-      "pos": 172,
-      "end": 193,
+      "pos": 179,
+      "end": 200,
       "kind": 1002,
       "kindText": "Action",
       "variable": "reset"
+    },
+    {
+      "name": "customincrement",
+      "filePath": "c:/Users/levyh/OneDrive/Documentos/estudos/ngrx-conter/src/app/counter/state/counter.actions.ts",
+      "pos": 237,
+      "end": 296,
+      "kind": 1002,
+      "kindText": "Action",
+      "createActionArgs": [
+        {
+          "name": "props",
+          "typeArguments": [
+            {
+              "kind": 173,
+              "kindText": "TypeLiteral",
+              "properties": [
+                {
+                  "name": "count",
+                  "type": "number"
+                }
+              ]
+            }
+          ],
+          "kind": 196,
+          "kindText": "CallExpression"
+        }
+      ],
+      "variable": "customIncrement"
     }
   ]
 }

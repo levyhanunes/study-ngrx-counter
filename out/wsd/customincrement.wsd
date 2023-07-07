@@ -1,0 +1,20 @@
+@startuml customincrement
+
+set namespaceSeparator ::
+skinparam class {
+    BackgroundColor<<listen>> HoneyDew
+    BackgroundColor<<action>> Wheat
+    BackgroundColor<<dispatch>> Technology
+}
+
+interface "customincrement" << (A,#FF7700) action >> {
+            variable: customIncrement
+            src: counter.actions
+            --
+            props<{count: number}>
+
+        }
+
+         
+
+@enduml
